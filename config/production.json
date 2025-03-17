@@ -9,8 +9,11 @@
   },
   "stunservers": [
     {
-      "urls": "$STUNSERVER_URL"
+      "urls": "stun:r-coturn.fxtzq6.easypanel.host:3478"
     }
   ],
   "turnservers": []
+  {
+      "urls": "turn:r-coturn.fxtzq6.easypanel.host:3478"
+    }
 }
